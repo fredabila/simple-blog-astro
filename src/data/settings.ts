@@ -3,5 +3,5 @@ export const settings = {
   name: 'Buzz Blog',
   title: 'Buzz Blog',
   description: 'Exciting news about Buzz Chat',
-  showLittleSticksPlug: true,
+  showLittleSticksPlug: false,
 }
