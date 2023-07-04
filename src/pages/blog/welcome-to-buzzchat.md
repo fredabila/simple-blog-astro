@@ -8,7 +8,7 @@ category: 'Blog'
 
 ## An Innovation in Tech and Social Networking
 
-Buzz Chat is a new social networking platform that utilizes AI to create a personalized experience for each user. The platform employs machine learning algorithms to analyze user behavior and preferences. Its standout features include a chatbot and personalized news feed. Buzz Chat aims to revolutionize social media by providing a unique and enjoyable experience for its users.
+Buzz Chat is a new social networking platform that utilizes AI to create a personalized experience for each user. The platform employs machine learning algorithms to analyze user behavior and preferences. Its standout features includes variation of chatbots and personalized news feed. Buzz Chat aims to revolutionize social media by providing a unique and enjoyable experience for its users.
 
 
 ![image](https://buzzchat.site/themes/Buzzchat/statics/img/logo.png)
