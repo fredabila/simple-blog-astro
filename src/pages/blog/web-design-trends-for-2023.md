@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Web Design Trends for 2023
+title: Welcome to Buzz Chat
 image: /images/web-design
 publishedAt: 2022-09-03
 category: 'Resources'

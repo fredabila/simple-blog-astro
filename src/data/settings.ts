@@ -1,7 +1,7 @@
 export const settings = {
-  site: 'https://simple-blog.littlesticks.dev',
-  name: 'Simple Blog',
-  title: 'Site title',
-  description: 'Site description',
+  site: 'https://blog.buzzchat.site',
+  name: 'Buzz Blog',
+  title: 'Buzz Blog',
+  description: 'Exciting news about Buzz Chat',
   showLittleSticksPlug: true,
 }
