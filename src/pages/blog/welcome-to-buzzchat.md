@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: Welcome to BuzzChat
-image: /images/freelance
+image: /images/icon
 publishedAt: "2023-04-07"
 category: 'Blog'
 ---
