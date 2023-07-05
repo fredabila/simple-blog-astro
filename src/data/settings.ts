@@ -4,4 +4,5 @@ export const settings = {
   title: 'Buzz Blog',
   description: 'Exciting news about Buzz Chat',
   showLittleSticksPlug: false,
+  url: 'https://blog.buzzchat.site'
 }
