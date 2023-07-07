@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/Post.astro'
-title: MentDep - Prioritizng Mental Health with AI
+title: MentDep - Prioritizing Mental Health with AI
 image: /images/mental-health
 publishedAt: "2023-05-07"
 category: 'AI'
