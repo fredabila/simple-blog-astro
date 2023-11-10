@@ -53,3 +53,6 @@ The integration of custom AI confers upon businesses a regal dominion in the tec
 With the unveiling of Custom AI Builder on Buzz Chat, businesses and startups are beckoned to script a chronicle of AI renaissance. Navigate the realms of infinite possibilities, transcend boundaries, and sculpt a narrative of technological transcendence. The future has arrived—embrace the epoch of AI sovereignty!
 [Buzz Chat](https://app.buzzchat.site)
 
+[![Watch the video](https://i.ibb.co/Hh26yLT/New-Blog-Post-Title-Instagram-Post.png)](https://www.youtube.com/watch?v=49r1ablwSSU)
+
+
